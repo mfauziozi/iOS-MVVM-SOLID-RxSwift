@@ -1,0 +1,52 @@
+PODS:
+  - Alamofire (5.10.2)
+  - Differentiator (5.0.0)
+  - Kingfisher (7.6.2)
+  - RxCocoa (6.5.0):
+    - RxRelay (= 6.5.0)
+    - RxSwift (= 6.5.0)
+  - RxDataSources (5.0.0):
+    - Differentiator (~> 5.0)
+    - RxCocoa (~> 6.0)
+    - RxSwift (~> 6.0)
+  - RxRelay (6.5.0):
+    - RxSwift (= 6.5.0)
+  - RxSwift (6.5.0)
+  - ScrollViewController (1.3.0)
+  - SnapKit (5.7.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher (~> 7.6.2)
+  - RxCocoa (= 6.5.0)
+  - RxDataSources
+  - RxSwift (= 6.5.0)
+  - ScrollViewController (~> 1.3)
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Differentiator
+    - Kingfisher
+    - RxCocoa
+    - RxDataSources
+    - RxRelay
+    - RxSwift
+    - ScrollViewController
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Alamofire: 7193b3b92c74a07f85569e1a6c4f4237291e7496
+  Differentiator: e8497ceab83c1b10ca233716d547b9af21b9344d
+  Kingfisher: 6c5449c6450c5239166510ba04afe374a98afc4f
+  RxCocoa: 94f817b71c07517321eb4f9ad299112ca8af743b
+  RxDataSources: aa47cc1ed6c500fa0dfecac5c979b723542d79cf
+  RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
+  ScrollViewController: 2d47fa63624e14b4f939444400546f6076f25cb3
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
+
+PODFILE CHECKSUM: db06a70350123638f937679f032575962cfa49f3
+
+COCOAPODS: 1.16.2
