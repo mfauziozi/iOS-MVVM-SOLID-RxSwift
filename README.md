@@ -1,5 +1,8 @@
 # iOS-MVVM-SOLID-RxSwift
-# iOS MVVM Architecture with RxSwift, UIKit, and SOLID Principles
+
+--- 
+
+## iOS MVVM Architecture with RxSwift, UIKit, and SOLID Principles
 
 This project is an **iOS application** built using **MVVM architecture**, **RxSwift** for reactive programming, and **UIKit** for UI components. It follows **SOLID principles** to ensure maintainable, scalable, and testable code.
 
